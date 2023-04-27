@@ -1,0 +1,11 @@
+git
+lessons
+
+1: install
+2: create a folder
+3: right click inside the folder --> Git bash
+4: git config --global user.name "Shoaeb"
+5: git config --global user.email "mshoaebansari@gmail.com"
+6: git config --list
+7: git congif user.email
+8: git config user.name
